@@ -17,7 +17,7 @@
 * Sharing Address through e-KYC
 * Verification through Barcode
 * Verify GPS Location
-* Action Logd
+* Action Logs
 * Saving fingerprint and user image record
 
 <br>
