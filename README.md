@@ -26,8 +26,21 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [F
 # Clone this repository
 $ git clone https://github.com/Rahul-Ranjan-Singh/Address_update_Theme_UIDAI_Hackathon
 
+## To Run Resident App
+
 # Go into the repository
-$ cd fluttery-todo
+$ cd resident_app
+
+# Install dependencies
+$ flutter packages get
+
+# Run the app
+$ flutter run
+
+## To Run Verifier App
+
+# Go into the repository
+$ cd verifier_app
 
 # Install dependencies
 $ flutter packages get
