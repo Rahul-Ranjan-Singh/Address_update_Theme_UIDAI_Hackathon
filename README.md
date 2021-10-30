@@ -24,7 +24,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [F
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/sabinbajracharya/fluttery-todo.git
+$ git clone https://github.com/Rahul-Ranjan-Singh/Address_update_Theme_UIDAI_Hackathon
 
 # Go into the repository
 $ cd fluttery-todo
