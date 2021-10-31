@@ -12,6 +12,13 @@
 <h4 align="center">Application for Address Update Theme UIDAI Hackathon 2021</a>.</h4>
 <br>
 
+### General
+
+This is a project submitted to the UIDAI Aadhar Authentication Hackathon. We try to explore authentication options in a variety of ways, while providing a seamless transition from online to offline. The methods of Authentication are:
+- Fingerprint Matching (Simulated due to lack of fingerprint sensors)
+- Aadhaar based OTP matching (Via SMS or email)
+- Stateless eKYC Matching
+
 ## Key Features
 
 * Sharing Address through e-KYC
@@ -58,3 +65,7 @@ $ flutter packages get
 # Run the app
 $ flutter run
 ```
+
+### About Us - 
+- [Rahul Ranjan Singh](https://github.com/Rahul-Ranjan-Singh), IT 3rd at ITM Gida
+- [Aman Sharma](https://github.com/AmanSharma703), IT 3rd at ITM Gida
